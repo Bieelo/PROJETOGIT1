@@ -1,9 +1,9 @@
 body{background-color: ghostwhite;}
 
+#title{color: darkmagenta; font-family: Geneva}
 
-#title{color: darkmagenta; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.subtitle{font-family: Geneva; color: darkmagenta;}
 
-.subtitle{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: darkmagenta;}
+.texto{font-family:  Geneva; font-size: 20px; color: darksalmon;}
 
-
-.texto{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; color: darksalmon;}
+.links{font-family: Geneva; color: darkmagenta; font-size: 20px;}
