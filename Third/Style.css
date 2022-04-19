@@ -1,9 +1,13 @@
-body{background-color: ghostwhite;}
+body{background-color: ghostwhite; max-width: 900px; margin: auto;}
 
-#title{color: darkmagenta; font-family: Geneva}
+.perfil{border: 3px solid; border-radius: 250px; width: 250px; height: 250px; margin: 25px;}
 
-.subtitle{font-family: Geneva; color: darkmagenta;}
+#title{color: darkmagenta; font-family: Geneva; text-align: center;}
 
-.texto{font-family:  Geneva; font-size: 20px; color: darksalmon;}
+.subtitle{font-family: Geneva; color: darkmagenta; padding: 12px; margin: 2px;}
 
-.links{font-family: Geneva; color: darkmagenta; font-size: 20px;}
+.texto{font-family:  Geneva; font-size: 20px; color: darksalmon; text-align: center;}
+
+.links{font-family: Geneva; color: darkmagenta; font-size: 20px; text-decoration: line-through;}
+
+.seção{border: 3px solid; color: darkmagenta;}
